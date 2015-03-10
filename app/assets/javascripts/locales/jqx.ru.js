@@ -1,4 +1,4 @@
-jqx_localization =
+jqxLocalization =
 {
     // separator of parts of a date (e.g. '/' in 11/05/1955)
     '/': "/",
