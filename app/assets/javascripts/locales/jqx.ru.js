@@ -107,3 +107,4 @@ jqxLocalization =
     clearstring: "Очистить",
     todaystring: "Сегодня"
 };
+jqx_localization = jqxLocalization;
